@@ -59,6 +59,7 @@ A inicios del 2025, incursiono como *Especialista de Inteligencia Artificial* en
 - Generador de catalogos de productos digitales con IA 🛒📚📑
 - Analisis predictivos 🔎📊
 - Visión por computadora para clasificar productos y proveer opciones en tiempo real 👁️‍🗨️📽️
+- Automatización de procesos internos para recepción, control y almacén de producto
 - Chatbots para atención a clientes :dependabot:
 
 Finalmente, me mantengo actualizado en temas de tecnología, si gustas contactarme puedes hacerlo por:
