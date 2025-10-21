@@ -55,11 +55,11 @@ De 2022 a inicios de 2025, regreso a laborar:
   
 El logro más importante fue obtener para la empresa el premio *SIG Award 2024* por el uso de tecnología SIG en el sistema web SIICART, el cual administra geográfica y cartograficamente recursos de la empresa, desde la producción y distribución de agua potable, hasta los datos comerciales de los usuarios. Aprendí a administrar y gestionar tecnología de ESRI. 🌍📍👩🏻‍💻
 
-A inicios del 2025, incursiono como *Especialista de Inteligencia Artificial* en Grupo Pakar, donde se pretende immplementar IA en los procesos que se siguen actualmente para el almacen, distribución y venta de calzado, desarrollando hasta el momento:
+A inicios del 2025, incursiono como *Especialista de Inteligencia Artificial* en Grupo Pakar, donde se pretende implementar IA en los procesos que se siguen actualmente para el almacen, distribución y venta de calzado, desarrollando hasta el momento:
 - Generador de catalogos de productos digitales con IA 🛒📚📑
 - Analisis predictivos 🔎📊
 - Visión por computadora para clasificar productos y proveer opciones en tiempo real 👁️‍🗨️📽️
-- Automatización de procesos internos para recepción, control y almacén de producto
+- Automatización de procesos internos para recepción, control y almacén de productos
 - Chatbots para atención a clientes :dependabot:
 
 Finalmente, me mantengo actualizado en temas de tecnología, si gustas contactarme puedes hacerlo por:
