@@ -60,8 +60,6 @@ A inicios del 2025, incursiono como *Especialista de Inteligencia Artificial* en
 - Analisis predictivos 🔎📊
 - Visión por computadora para clasificar productos y proveer opciones en tiempo real 👁️‍🗨️📽️
 - Automatización de procesos internos para recepción, control y almacén de productos.
-
-- ![Darthzeroth github stats](https://github-readme-stats.vercel.app/api?username=Darthzeroth&show_icons=true&theme=darcula)
 - Chatbots para atención a clientes :dependabot:
 
 Finalmente, me mantengo actualizado en temas de tecnología, si gustas contactarme puedes hacerlo por:
@@ -70,3 +68,4 @@ Finalmente, me mantengo actualizado en temas de tecnología, si gustas contactar
 
 [Linkedin](https://www.linkedin.com/in/oscar-gr91)	https://www.linkedin.com/in/oscar-gr91
 
+![Darthzeroth github stats](https://github-readme-stats.vercel.app/api?username=Darthzeroth&show_icons=true&theme=darcula)
